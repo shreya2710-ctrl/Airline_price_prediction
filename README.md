@@ -1,5 +1,5 @@
 # Airline_price_prediction
-This notebook contain s the EDA of "Price prediction for Airlines". The data can be downloaded from here[https://docs.google.com/spreadsheets/d/1Ybk5_fz9-FreqTxGBQWmoZeZ2cCztHd3/edit#gid=989847285].
+This notebook contain s the EDA of "Price prediction for Airlines". The data can be downloaded from [here](https://docs.google.com/spreadsheets/d/1Ybk5_fz9-FreqTxGBQWmoZeZ2cCztHd3/edit#gid=989847285).*
 
 The notebbok contains the following--
 a) Understanding of data
